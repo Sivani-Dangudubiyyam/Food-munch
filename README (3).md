@@ -8,7 +8,7 @@ Food Munch is a classic food ordering web application designed with HTML and CSS
 
 ![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Food-munch/blob/main/foodMunch1.png)
 
-
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Food-munch/blob/main/foodMunch3.png)
 
 ## Features
 
